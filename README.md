@@ -2,6 +2,8 @@
 
 # Hello GitHub Actions
 
+Edit here for Step 5 in the Exercise!
+
 _Create and run a GitHub Actions workflow._
 
 </header>
